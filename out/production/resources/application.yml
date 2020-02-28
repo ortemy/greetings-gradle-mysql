@@ -1,0 +1,12 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: none
+  datasource:
+    url: jdbc:mysql://localhost:3306/greetings_example
+    username: apmuser
+    password: Password123
+
+
+server:
+  port: 8081

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Start-Class: ca.com.elastic.GreetingsServiceLauncher
+Main-Class: org.springframework.boot.loader.JarLauncher
+
